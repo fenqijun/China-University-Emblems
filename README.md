@@ -1,6 +1,7 @@
 # 2711个中国高校校徽图标库China-University-Emblems
 
 本仓库收录了中国大陆各大高校校徽的资源仓库，旨在为需要使用中国大学校徽的设计师、开发者、研究人员等提供全面、准确且高质量的校徽素材。
+
 ![image](https://github.com/user-attachments/assets/7d4a7279-8dcd-4b67-8939-ead067b2e24c)
 
 ## 素材格式
